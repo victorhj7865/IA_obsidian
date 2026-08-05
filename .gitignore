@@ -1,0 +1,11 @@
+# Vídeos e mídias
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+
+# Pastas de ambiente virtual ou cache do Python
+__pycache__/
+.venv/
+venv/
